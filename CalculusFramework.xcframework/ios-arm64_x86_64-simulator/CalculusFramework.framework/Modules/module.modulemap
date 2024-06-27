@@ -1,0 +1,11 @@
+framework module CalculusFramework {
+  umbrella header "CalculusFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module CalculusFramework.Swift {
+  header "CalculusFramework-Swift.h"
+  requires objc
+}
