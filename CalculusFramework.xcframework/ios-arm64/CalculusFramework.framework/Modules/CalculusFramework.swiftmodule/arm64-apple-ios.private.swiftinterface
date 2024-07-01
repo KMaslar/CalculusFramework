@@ -12,5 +12,6 @@ public class Calculus {
   public init()
   public func add(num1: Swift.Int, num2: Swift.Int) -> Swift.Int
   public func minus(num1: Swift.Int, num2: Swift.Int) -> Swift.Int
+  public func multiply(num1: Swift.Int, num2: Swift.Int) -> Swift.Int
   @objc deinit
 }

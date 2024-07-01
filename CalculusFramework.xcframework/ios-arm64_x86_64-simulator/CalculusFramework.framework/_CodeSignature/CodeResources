@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KbluGdhs+60/9UyqHuiliNAmezk=
+		5zJaRUic5NiN9gF4YrNc5rsGpnU=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nCnch9lLl4kVeV5O4/NU7v+yYBM=
+		5bmaIN30HtsSATQOe+4cK7L++sc=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nCnch9lLl4kVeV5O4/NU7v+yYBM=
+		5bmaIN30HtsSATQOe+4cK7L++sc=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4ctIQCKihiKT5ctKe6OCe1zgQDw=
+		iPMLKxZHdFOs6ODfrbtn2LFNkFw=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KbluGdhs+60/9UyqHuiliNAmezk=
+		5zJaRUic5NiN9gF4YrNc5rsGpnU=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		BGw/LMwsBJlPmdEz4dfZXRQBD4o=
+		4Y3x59KoC56kS2sNheTmeCr0EeE=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BGw/LMwsBJlPmdEz4dfZXRQBD4o=
+		4Y3x59KoC56kS2sNheTmeCr0EeE=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HpMCrQZqeNiMiC3VBUpvUg9yVPs=
+		2h3KBSst0NRyh2vesnNmvD36yzc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XAByPSi78Uf8OR7HWDsJJUWxIPDr9BkaknFYlySkUhE=
+			+j4J29VaWNlt5OEw6w2OremVu7FoF+BMoNQ46lnnmX0=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFE9NTV7gczzYi4E38Y0zjii7fb/nmHagE9Ot68aUjg=
+			ExBWfq7CKC1nqJdtYnqu0hNbnFQlJn8L6PSDXuaJITc=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFE9NTV7gczzYi4E38Y0zjii7fb/nmHagE9Ot68aUjg=
+			ExBWfq7CKC1nqJdtYnqu0hNbnFQlJn8L6PSDXuaJITc=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YlBPuE/6I9h1Q8P5ZPzgCmcIITzP0R1w2venS2JDZpg=
+			MFIox6rnEmqngrg7rcl3w0il5swupQ5MFNi2yb41nFY=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XAByPSi78Uf8OR7HWDsJJUWxIPDr9BkaknFYlySkUhE=
+			+j4J29VaWNlt5OEw6w2OremVu7FoF+BMoNQ46lnnmX0=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TThcYsW412fEPbXM/A6BnP8eza3hSRjYkz8uhShDXh0=
+			mnR4nvTAAAFkKcghWz43vMYZPG1ODc6rkdv43mV2dLE=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TThcYsW412fEPbXM/A6BnP8eza3hSRjYkz8uhShDXh0=
+			mnR4nvTAAAFkKcghWz43vMYZPG1ODc6rkdv43mV2dLE=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QIXMGw2C/3q5q6zr8IixNa3EGjdZ1byJgAEjqv9QSZ8=
+			auVLtEWf/nFst/L+0LuNpg8qAooA4h2flJgTpeKd5GE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

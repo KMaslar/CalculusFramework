@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		KbluGdhs+60/9UyqHuiliNAmezk=
+		5zJaRUic5NiN9gF4YrNc5rsGpnU=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		uL8YiJUHPYACU8YQwUqEamgJfQY=
+		iTSLn+wyJpWlxGGaiyBhe5N8CSY=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		uL8YiJUHPYACU8YQwUqEamgJfQY=
+		iTSLn+wyJpWlxGGaiyBhe5N8CSY=
 		</data>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ur142djAs6AObNcXgWcDqQF7ACA=
+		JwQ9bhmRIMLpE+b/4EiB6C1YuaM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XAByPSi78Uf8OR7HWDsJJUWxIPDr9BkaknFYlySkUhE=
+			+j4J29VaWNlt5OEw6w2OremVu7FoF+BMoNQ46lnnmX0=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sm8PFtLZ+27wqv/+NU6OUAkT/S/0/tgFYxjirhGRM5s=
+			mb6L7zr2YivQ3KyJ5Q77+iCOBOX4wKDuT1krIIsni2I=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sm8PFtLZ+27wqv/+NU6OUAkT/S/0/tgFYxjirhGRM5s=
+			mb6L7zr2YivQ3KyJ5Q77+iCOBOX4wKDuT1krIIsni2I=
 			</data>
 		</dict>
 		<key>Modules/CalculusFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqxqTREsdD4nrSJwSA/cu7+VP9uNxQfD0QcBST26psM=
+			AF1al0kur0CDhWvX5bBfmrbVGmdjqkOlhlc1J8LugAY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
